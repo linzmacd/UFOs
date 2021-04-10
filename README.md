@@ -6,9 +6,9 @@ The purpose of this project was to design a website with a filterable database o
 
 ## Results
 
-Users can enter specific search criteria in one or more boxes and the table will update with entries that match.
+Users can enter specific search criteria in one or more boxes and the table will update showing only entries that match.
 
-In the example below, the data has been filtered to only show UFO sightings in California that were triangular in shape from January 1, 2010.
+In the example below, the data has been filtered to show triangular UFO sightings in California on January 1, 2010.
 
 ![filter.png](filter.png)
 
