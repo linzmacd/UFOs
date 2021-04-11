@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sighting Website
 
 ## Overview
 
