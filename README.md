@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# UFO Sightings Website
-=======
 # UFO Sighting Website
->>>>>>> 4b845575007b9154b7a51d93603b558583ff10fb
 
 ## Overview
 
@@ -12,7 +8,10 @@ The purpose of this project was to design a website with a filterable database o
 
 Users can enter specific search criteria in one or more boxes and the table will update showing only entries that match.
 
-In the example below, the data has been filtered to show triangular UFO sightings in California on January 1, 2010.
+In the example below, the data has been filtered to show triangular UFO sightings in California on January 1, 2010. To reproduce the results shown below, take the following steps:
+1. Enter "1/10/2010" into the "Enter Date" box
+2. Enter "ca" into the "Enter State" box
+3. Enter "triangle" into the "Enter Shape" box
 
 ![filter.png](filter.png)
 
