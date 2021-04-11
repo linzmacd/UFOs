@@ -10,8 +10,8 @@ Users can enter specific search criteria in one or more boxes and the table will
 
 In the example shown below, the data has been filtered to show triangular UFO sightings in California on January 1, 2010. To reproduce these results, take the following steps:
 1. Type "1/10/2010" in the "Enter Date" box
-2. Type "ca" in the "Enter State" box
-3. Type "triangle" in the "Enter Shape" box
+2. Type "ca" in the "Enter a State" box
+3. Type "triangle" in the "Enter a Shape" box
 
 ![filter.png](filter.png)
 
