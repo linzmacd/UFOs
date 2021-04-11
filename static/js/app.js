@@ -63,7 +63,6 @@ function filterTable() {
   // matches the filter values
   for (var id in filters) {
     filteredData = filteredData.filter(row => row[id] === filters[id]);
-    // filteredData = filteredData.filter(row => row.datetime === date);
   }
   
   // 10. Finally, rebuild the table using the filtered data
